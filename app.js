@@ -1,3 +1,3 @@
-alert ('hello uranus')
+alert ('hello wonderful people')
 
-alert ("Nice food")
+alert ("Still fresh page")
